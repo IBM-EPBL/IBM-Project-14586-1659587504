@@ -1,9 +1,7 @@
 # IBM-Project-14586-1659587504
 University Admit Eligibility Predictor
-Team Leader : Heera.G
-Team Member 1: Mamtha.T
-Team Member 2: Sangeetha.S
-Team Member 3: Suji.G
+
+Team Members: Heera.G(Leader), Mamtha.T, Sangeetha.S, Suji.G
 
 
 Abstract:
